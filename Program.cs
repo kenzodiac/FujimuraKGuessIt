@@ -1,9 +1,8 @@
 ﻿//Kenneth Fujimura
-//Last accessed: 09-19-2022 @2:24pm
+//Last accessed: 10-19-2022
 //Mini Challenge # 8 - Guess It
 //This program has the user input numbers to guess the right answer. The numbers are randomly generated. There are multiple difficulty levels that expand the number range to guess from.
-//Peer Reviewed by: Marcel R. -“The code runs exceptionally, I like how you used cases to switch the values of the guess range rather than typing the whole code again. Had data evaluation when needed, and took into account if the user entered a number or string and responded accordingly. As for the flowchart it is easy to follow and includes all inputs, outputs, and processes needed.”
-
+//Peer Reviewed by:
 
 Console.Clear();
 //Global variables
@@ -61,7 +60,7 @@ while (playAgainVar == true) {
         //case 3: Hard Mode
         case 3:
             min = 1;
-            max = 50;
+            max = 100;
         break;
 
         //case 4: Custom Mode
