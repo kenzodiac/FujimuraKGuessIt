@@ -1,6 +1,6 @@
 ﻿//Kenneth Fujimura
 //Last accessed: 10-19-2022
-//Mini Challenge # 8 - Guess It
+//GitHub Challenge # 8 - Guess It
 //This program has the user input numbers to guess the right answer. The numbers are randomly generated. There are multiple difficulty levels that expand the number range to guess from.
 //Peer Reviewed by:
 
